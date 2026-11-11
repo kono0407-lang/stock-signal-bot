@@ -1,41 +1,44 @@
-■ 株シグナル日報 2026/11/10
-（ユニバース586銘柄 → テクニカル合格109銘柄）
+■ 株シグナル日報 2026/11/11
+（ユニバース586銘柄 → テクニカル合格102銘柄）
 
 ◆ 高配当（3銘柄合致 / 上位3件）
-・Pinnacle West Capital Corporati [PNW] US <S&P500>
-    利回り3.5% / 性向68% / CFカバー4.3倍
-    株価105.3 / RSI59.4 / 200日線上&50日線上向き 
+・Exelon Corporation [EXC] US <S&P500>
+    利回り3.7% / 性向65% / CFカバー3.9倍
+    株価45.5 / RSI59.5 / 200日線上&50日線上向き 
 ・Chevron Corporation [CVX] US <S&P500/配当貴族>
     利回り3.4% / 性向52% / CFカバー2.7倍
-    株価210.8 / RSI38.8 / 200日線上&50日線上向き 
+    株価211.2 / RSI39.5 / 200日線上&50日線上向き 
 ・American Electric Power Company [AEP] US <S&P500>
-    利回り3.1% / 性向62% / CFカバー3.5倍
-    株価128.3 / RSI55.0 / 200日線上&50日線上向き 
+    利回り3.0% / 性向62% / CFカバー3.5倍
+    株価127.8 / RSI56.4 / 200日線上&50日線上向き 
 
-◆ バリュー（4銘柄合致 / 上位4件）
+◆ バリュー（6銘柄合致 / 上位5件）
+・MITSUI O.S.K. LINES LTD [9104.T] JP <日経225>
+    PER8.2 / PBR0.75 / ミックス6.1 / ROE9.7%
+    株価6619.0 / RSI38.6 / 200日線上&50日線上向き 
+・KANSAI ELECTRIC POWER CO INC [9503.T] JP <日経225>
+    PER8.9 / PBR0.82 / ミックス7.3 / ROE9.5%
+    株価2679.5 / RSI49.5 / 200日線上&50日線上向き 
 ・NIPPON YUSEN KABUSHIKI KAISHA [9101.T] JP <日経225>
-    PER8.7 / PBR0.82 / ミックス7.2 / ROE10.4%
-    株価6532.0 / RSI35.3 / 200日線上&50日線上向き 
+    PER8.7 / PBR0.84 / ミックス7.3 / ROE10.4%
+    株価6676.0 / RSI39.5 / 200日線上&50日線上向き 
 ・SEKISUI HOUSE [1928.T] JP <日経225/連続増配>
-    PER8.8 / PBR1.02 / ミックス9.0 / ROE12.3%
-    株価3551.0 / RSI56.2 / 200日線上&50日線上向き 
+    PER9.1 / PBR1.02 / ミックス9.3 / ROE12.3%
+    株価3546.0 / RSI55.8 / 200日線上&50日線上向き 
 ・KAWASAKI KISEN KAISHA [9107.T] JP <日経225>
-    PER9.8 / PBR1.03 / ミックス10.2 / ROE11.0%
-    株価3013.0 / RSI33.9 / 200日線上&50日線上向き 
-・American International Group, I [AIG] US <S&P500>
-    PER12.7 / PBR1.06 / ミックス13.5 / ROE8.2%
-    株価79.6 / RSI50.6 / 200日線上&50日線上向き 
+    PER10.0 / PBR1.01 / ミックス10.1 / ROE11.0%
+    株価3007.0 / RSI33.9 / 200日線上&50日線上向き 
 
 ◆ ディフェンシブ（6銘柄合致 / 上位5件）
+・TOKYO GAS CO [9531.T] JP <日経225>
+    Utilities / β-0.17
+    株価6565.0 / RSI59.5 / 200日線上&50日線上向き 
+・Exelon Corporation [EXC] US <S&P500>
+    Utilities / β0.34
+    株価45.5 / RSI59.5 / 200日線上&50日線上向き 
 ・American Electric Power Company [AEP] US <S&P500>
     Utilities / β0.44
-    株価128.3 / RSI55.0 / 200日線上&50日線上向き 
-・Pinnacle West Capital Corporati [PNW] US <S&P500>
-    Utilities / β0.47
-    株価105.3 / RSI59.4 / 200日線上&50日線上向き 
-・PPL Corporation [PPL] US <S&P500>
-    Utilities / β0.56
-    株価35.7 / RSI60.0 / 200日線上&50日線上向き 
+    株価127.8 / RSI56.4 / 200日線上&50日線上向き 
 ・Fox Corporation [FOX] US <S&P500>
     Communication Services / β0.62
     株価60.5 / RSI57.7 / 200日線上&50日線上向き 
